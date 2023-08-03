@@ -1,0 +1,7 @@
+print('Print printado')
+print('soma',2+2)
+print('subtração',2-2)
+print('divisão',2/2)
+print('multiplicação',2*2)
+print('equação',2**2)
+print('módulo', 2%3)
